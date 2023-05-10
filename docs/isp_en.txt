@@ -1,0 +1,4 @@
+Liu Yang: Male, graduated from Northwestern Polytechnical University in 2008, worked at Shanda Network, with more than ten years of work experience in game client and server development.
+Zhang Zhuopeng: Male, worked in a Singaporean foreign company.
+Deng Handan: Female, graduated from Chengdu University, supervised by Liu Yang, proficient in C++.
+Liu Ling: Male, graduated from Chengdu University, supervised by Zhong Wenqin, proficient in Java.
